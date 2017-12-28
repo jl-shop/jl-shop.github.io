@@ -1,0 +1,108 @@
+.dcontainer {position: relative;
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1140px;
+  padding-left: 20px;
+  padding-right: 20px;
+  }
+.gallery img {}
+.dtitle {border-top: 1px solid #eee;
+  border-bottom: 2px solid #eee;
+  background: #fff;
+}
+
+.pdetails { padding: 80px 0;}
+.pcontainer {margin-left: auto;
+  margin-right: auto;
+  max-width: 1140px;
+  position: relative;
+  padding-left: 20px;
+  padding-right: 20px;
+  }
+
+.colleft {width: 50%;
+  float: left;
+  }
+.pd-img {border: 2px solid #eee}
+.pd-img {width: 544px; height: 544px;}
+
+.show-img {width: 100%;max-width: 100%;position: container}
+
+.colright {width: 50%;
+  float: left;
+  position: relative;
+  min-height: 1px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background: #fff;
+  margin-top: 2px;
+
+}
+
+.pd-info {padding-left: 30px;}
+.pd-info ul {display: block;
+  margin: 10px 0 20px 20px;
+  padding: 0;
+}
+.pd-info ul li {list-style: disc;
+  line-height: 1.4;
+  margin-bottom: 5px;
+}
+.pd-info .entry-price {font-size: 18px;
+  color: #007dde;
+  margin-bottom: 5px;
+}
+.container {margin-left: auto;
+  margin-right: auto;
+  max-width: 1140px;
+  position: relative;
+  padding-left: 20px;
+  padding-right: 20px;
+
+}
+.spec {padding: 80px 0;display: block;
+clear: both;}
+
+.spec-title {padding-left: 0;
+margin-bottom: 0;
+list-style: none;
+display: flex;
+
+
+}
+.stitle {display: flex;margin-bottom: 0;padding-left: 0;list-style: none;}
+.stitle li {display: block;float: left;}
+.nav-tab {border-bottom: 1px solid #eee;}
+.stitle li a {line-height: 60px;
+  display: block;
+  position: relative;
+  font-size: 20px;
+}
+.nav-item {margin-bottom: 1px;
+  margin-left: 0;
+  margin-right: 0;
+}
+.nav-link {color: Black;
+  border: 2px solid #eee;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-top-right-radius: .25rem;
+  border-top-left-radius: .25rem;
+}
+.tab-content .active {display: block;padding-top: 10PX;}
+
+.tab-pane {display: block;
+  padding-top: 10px;
+}
+table {width: 100%;
+  max-width: 100%;
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+.table td {font-size: 15px;
+  border-bottom: 1px solid #eee;
+  padding: 12px 10px;
+  line-height: 1.35;
+}
+.tdw {width: 30%;}

@@ -1,0 +1,111 @@
+.pbanner {background-color: black;
+  width: 100%;height: 350px;
+}
+.pbanner img {width: 100%;height: 100%;}
+
+
+.col-sidebar {float: left;
+  width: 20%;
+  padding-right: 20px;
+  padding-top: 40px;
+  background-color: #fff;
+
+  }
+
+.sidemenu {padding-left: 10px;
+  padding-bottom: 20px;
+  }
+.sidemenu-list {list-style: none;
+  padding: 0;margin: 0;
+}
+.sidemenu-list li {margin-top: 20px;
+  display: block;}
+.sidemenu-list a {text-decoration: none;
+  color: black;display: block;
+  }
+
+.sidemenu-list a:hover {color: #007dde;}
+
+.col-area {width: 80%;
+  float: right;
+  background-color: #fff;
+  margin-bottom: 50px;
+  }
+.post-content {padding-top: 50px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 40px;
+  overflow: hidden;
+  border-left: 3px solid  #eee;
+  }
+.post-content-home{padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 40px;
+    overflow: hidden;}
+.ptitle {padding: 5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  background: #ddd;
+  float: left;
+  width: 100%;
+  position: relative;
+}
+.seeall {float: right;}
+.seeall a{text-decoration: none;color: black}
+.seeall a:hover {color: #007dde}
+.name {float: left;}
+
+
+.show-list {position: relative;
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 33%;
+  float: left;
+}
+
+
+.spec{margin-top: 30px;margin-bottom: 10px;}
+.pd-name a{text-decoration: none;color: black;font-size: 14px;}
+.pd-name a:hover {color: #007dde;transition: ease-in-out .2s}
+.pd-img {height: 191px;
+  width: auto;
+  vertical-align: middle;
+  max-width: 100%;
+  }
+
+.inline-price {color: #007dde}
+.list-item .entry-img {text-align: center;
+  overflow: hidden;
+  border: 2px solid #eee;
+  position: relative;
+}
+
+.list-item .entry-caption {color: #000;
+  font-size: 14px;
+  padding: 25px 0;
+}
+
+.list-item .entry-caption h3.pd-name{min-height: 2em;
+  line-height: 1.1em;
+  max-height: 3em;
+  overflow: hidden;
+  font-size: 18px;
+  margin: 0;
+}
+.list-item .spec {height: 3em;
+  line-height: 1em;
+  overflow: hidden;float: left;}
+.pd-note {color: red;
+  font-size: 13px;
+  height: 29px;
+  margin-bottom: 0;
+  margin-top: 3px;
+  line-height: 13px;
+  padding-top: 3px;
+  clear: both;
+}
+.list-item .entry-price {padding: 5px 0 15px;
+  font-size: 18px;
+  color: blue;
+}
